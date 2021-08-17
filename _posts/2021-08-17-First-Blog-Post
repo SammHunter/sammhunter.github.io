@@ -3,8 +3,21 @@ layout: post
 title: Rough Draft
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+What do you think being a data scientist is about?
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+In Fall 2015, my genomics professor strolled in and announced to our lab section that his wife got a new job with a huge raise, just by changing her job title 
+"Big Data Scientist". I also assume she was highly qualified for the position, but I think this is where my confusion about data science comes in. It's now six
+years later, and I think I might have figured it out. A data scientist is someone who uses statistics t
+
+
+What do you see as the major duties and/or knowledge areas?  
+
+
+
+What differences/similarities do you see between data scientists and statisticians?
+
+
+How do you view yourself in relation to these two areas?
+I enjoy the data science work more than I enjoy the pure statistics 
+
