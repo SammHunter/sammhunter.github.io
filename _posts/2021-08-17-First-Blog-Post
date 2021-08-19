@@ -4,58 +4,25 @@ title: Rough Draft
 body: herlwsdn;kjslgbddfg
 published: true
 ---
-ARTICLES:
-
-Data Scientists vs Statisticians - Medium, ODSC Journal, 2019
-*"A data scientist is someone who is better at statistics than any software engineer and better at software engineering than any statistician." - Twitter, 2012
-
-*Confluence of three areas: computer science, mathematics/statistics, and specific domain knowledge. 
- Focus is solving specific problems (rather than exploring/taking a deep dive on data). 
- 
- *A statistician works with nuances and fairly high-level interpretations, while a data scientist applies those high-level concepts
-  to data in a fairly methodical process and can make more digestable conclusions.  This article argues that these two spheres should
-  be blended more; they work better together than alone. 
- 
- 
- 
-Machine Learning Engineer vs Data Scientist - Andrew Zola, 2019
-*Has the QUOTE and picture (Venn Diagram)
-*Computer Science > Artificial Intelligence (Automata theory, complex information processing, cybernetics) >
-   > Machine Learning:
-      - data driven algorithms enables software application to become highly accurate in predicting outcomes without need for explicit programming
-      - develop algorithms that can receive input data and leverage statistical models to predict an output while updating outputs as new data becomes available
-      
-***Data science "described as the description, prediction, and casual inference from both structures and unstructured data"
-   - study of where data originates, what it represents, and how it could be transformed into a valuable resource
-   - does the statistical analysis required to determine which machine learning approach to use, then they model the algorithm and prototype
-   - knows the math part AND the cs part
-*WHAT IT'S GOOD FOR:
-   - gain a competitive advantage
-   - id new market opportunities
-   - increase efficiencies
-   - reign in costs
-   
-   ***Reread "What Do the Experts Say?" - Shubhankar Jain's quote is really good
-   
-   
-
-Data Science vs Data Analytics vs Machine Learning - Expert Talk, Srihari Sasikumar, updates 06/22/21
-*Has the picture, combo of hacker man, math/stat know how, and substantive expertise 
-*Data science does the data cleansing, prep, & analysis
-
-
-
-What is data science vs statistics? - The Signal, Justin Megahan
-
-
-
 
 HOMEWORK: 
-Despite reading four articles that disagree with this opinion, I still think a data scientist is a statician that has the ability to code. I say this because you can't divorce data science from statistics. Data science's foundation is statistics and data science would not exist, if not for statistics. Like I wouldn't say that an epidemiologists, bookmakers, or statistics teachers aren't staticians just because that's not what they put into their job searches. It could be that my definition of statician is more generous than what the authors of these articles have in their mind. 
+Despite reading four articles that disagree with this opinion, I still think a data scientist is a statician that has the ability to code. 
+I say this because you can't divorce data science from statistics. Data science's foundation is statistics and data science would not exist, if not for statistics. 
+Like I wouldn't say that an epidemiologists, bookmakers, or statistics teachers aren't staticians just because that's not what they put into their job searches. It 
+could be that my definition of statician is more generous than what the authors of these articles have in their mind. 
 
-Two of these articles used a Venn Diagram as a visual aide. The three large circles of the Venn Diagram were "Hacking Skills", "Statistic/Math Know-How", and "Substantive Expertise" and data science was the intersection of those three. I think it's a poor visual. Data science should be a circle completely within "Statistic/Math Know-How" because I don't know any data science job that won't require you to know statistics. I also think nearly all staticians are "substantive experts". Even if someone only works within theory, they are still substantive experts on that theory. It seems like a weird distinction to make. Finally, we have "hacking skills", which, programming is not hacking unless these mean hacking in like, a 'life hack' sort of way. Data scientists not only get to make beautiful visuals relatively easily, but they also get to perform the statistics with super powerful computers. But again, the work is still statistics.
+Two of these articles used a Venn Diagram as a visual aide. The three large circles of the Venn Diagram were "Hacking Skills", "Statistic/Math Know-How", and 
+"Substantive Expertise" and data science was the intersection of those three. I think it's a poor visual. Data science should be a circle completely within 
+"Statistic/Math Know-How" because I don't know any data science job that won't require you to know statistics. I also think nearly all staticians are "substantive experts". 
+Even if someone only works within theory, they are still substantive experts on that theory. It seems like a weird distinction to make. Finally, we have "hacking skills", 
+which, programming is not hacking unless these mean hacking in like, a 'life hack' sort of way. Data scientists not only get to make beautiful visuals relatively easily, 
+but they also get to perform the statistics with super powerful computers. But again, the work is still statistics.
 
-At the end of the day, I think this is an argument about what to enter into a job search, but, substantively, data scientists are staticians. I actually have never looked for statician jobs before so I just did a quick search on Indeed, in the DC area, and it seems like statistician is just as nebulous of a title as data sciencist. Some employers are looking for a statistician to design studies, which isn't something data scientists tend to do. Nearly every single statistician and data scientist post list programming experience and statistics needed. 
+At the end of the day, I think this is an argument about what to enter into a job search, but, substantively, data scientists are staticians. I actually have never looked 
+for statician jobs before so I just did a quick search on Indeed, in the DC area, and it seems like statistician is just as nebulous of a title as data sciencist. Some employers
+are looking for a statistician to design studies, which isn't something data scientists tend to do. Nearly every single statistician and data scientist post list programming 
+
+experience and statistics needed. 
 
 I personally will still be entering data science into my job searches. I really enjoy the coding and communicative aspect of statistics. 
 
@@ -64,5 +31,3 @@ I personally will still be entering data science into my job searches. I really 
 What do you see as the major duties and/or knowledge areas?  
 What differences/similarities do you see between data scientists and statisticians?
 How do you view yourself in relation to these two areas?
-I enjoy the data science work more than I enjoy the pure statistics
-
