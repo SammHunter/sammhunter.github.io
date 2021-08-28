@@ -5,10 +5,13 @@ permalink: /about/
 ---
 
 ### Sam
+_Western Tennessee
+_NCSU '22, Masters of Statistics
+_SAS Programming Intern @ a Contract Research Organization
 
-I'm a graduate student at NCSU and planning on graduating in Spring '22 and just began a SAS Programmer internship.I got by Bachelors in Biology at University of Colorado at Boulder.
 
-When I'm not studying, I'm usually trying to teach my dog, [Harlow](https://en.wikipedia.org/wiki/Harlow_Shapley), a new trick or taking her to a park. I also have two cats, Boo (tortiose colored) and DustMy husband and I enjoy SCUBA diving and visiting our families when there isn't a pandemic happening. Since we were (and are?) stuck at home, I've caught every Washington Capitals game last season and quite a few other games, and I was lucky enough to catch up on the Olympics after my summer finals this year. My favorite events were climbing and womens field hockey. Right now, I'm keeping an eye on the weather as storms form in the Atlantic and wactching [Monteray Bay Aquarium's live cams](https://www.montereybayaquarium.org/animals/live-cams/sea-otter-cam). 
+
+When I'm not studying, I'm usually trying to teach my dog, [Harlow](https://en.wikipedia.org/wiki/Harlow_Shapley), a new trick or taking her to a park. I also have two cats, Boo (tortiose colored) and Dusty. Since we have been stuck at home, I watched every Washington Capitals game last season and currently watch a lot of animal cams like [Monteray Bay Aquarium's live cams](https://www.montereybayaquarium.org/animals/live-cams/sea-otter-cam). I also have an obsession with the weather that probably comes from my mom working on geostationary sattelites. I love watching the maps as tropical storms form and move through and out of the the Atlantic Ocean.
 
 Harlow
 ![Harlow](https://raw.githubusercontent.com/sammhunter/sammhunter.github.io/master/images/harlow.jpg)
