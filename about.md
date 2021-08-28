@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-### More Information
+### Sam
 
-I'm a graduate student at NCSU and planning on graduating in Spring '22 and just began a SAS Programmer internship. When I'm not studying, I'm usually trying to teach my dog, [Harlow](https://en.wikipedia.org/wiki/Harlow_Shapley), a new trick or taking her to a park. I also have two cats, Boo (tortiose colored) and Dusty (sandy banded guy), that my husband spoils rotten. We're currently saving up to screen in our deck so they can hang out outside safely. The two of us enjoy SCUBA diving and visiting our families when there isn't a pandemic happening. Since we were (and are?) stuck at home, I caught every Washington Capitals game last season and quite a few other games, and I was lucky enough to catch up on the Olympics after my summer finals this year. My favorite events were climbing and womens field hockey. Right now, I'm keeping an eye on the weather as storms form in the Atlantic and wactching [Monteray Bay Aquarium's live cams](https://www.montereybayaquarium.org/animals/live-cams/sea-otter-cam). 
+I'm a graduate student at NCSU and planning on graduating in Spring '22 and just began a SAS Programmer internship.I got by Bachelors in Biology at University of Colorado at Boulder and took a winding road to get here.
+
+When I'm not studying, I'm usually trying to teach my dog, [Harlow](https://en.wikipedia.org/wiki/Harlow_Shapley), a new trick or taking her to a park. I also have two cats, Boo (tortiose colored) and Dusty (sandy banded guy), that my husband spoils rotten. We're currently saving up to screen in our deck so they can hang out outside safely. The two of us enjoy SCUBA diving and visiting our families when there isn't a pandemic happening. Since we were (and are?) stuck at home, I caught every Washington Capitals game last season and quite a few other games, and I was lucky enough to catch up on the Olympics after my summer finals this year. My favorite events were climbing and womens field hockey. Right now, I'm keeping an eye on the weather as storms form in the Atlantic and wactching [Monteray Bay Aquarium's live cams](https://www.montereybayaquarium.org/animals/live-cams/sea-otter-cam). 
 
 Harlow
 ![Harlow](https://raw.githubusercontent.com/sammhunter/sammhunter.github.io/master/images/harlow.jpg)
