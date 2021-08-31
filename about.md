@@ -18,6 +18,11 @@ I got into statistics in a very round-about way. In 2013, Colorado was hit by a 
 
 When I'm not studying, I'm usually trying to teach my dog, [Harlow](https://en.wikipedia.org/wiki/Harlow_Shapley), a new trick or taking her to a park. I also have two cats, Boo and Dusty who greatly enjoy supervised outdoor time. I'm not letting any eco-terrorists out on my watch. Since we have been stuck at home, I watched every Washington Capitals game last season and currently watch a lot of animal cams like [Monteray Bay Aquarium's live cams](https://www.montereybayaquarium.org/animals/live-cams/sea-otter-cam). I also still have an obsession with the weather. I'm really interested in watching storms manifest on RADAR and hearing about how the jet streams destabilazation is affecting the weather from year-to-year. This time of year is good for keeping an [eye](https://www.tropicaltidbits.com/) on tropical storms as they move through and out of the the Atlantic and Pacific Ocean. If anyone has a connection to NOAA, please let me know!
 
+
+### Contact me
+
+[shunter2@ncsu.edu](mailto:shunter2@ncsu.edu)
+
 Harlow
 ![Harlow](https://raw.githubusercontent.com/sammhunter/sammhunter.github.io/master/images/harlow.jpg)
 Boo
@@ -25,6 +30,3 @@ Boo
 Dusty
 ![Dusty](https://raw.githubusercontent.com/sammhunter/sammhunter.github.io/master/images/dusty.jpg)
 
-### Contact me
-
-[shunter2@ncsu.edu](mailto:shunter2@ncsu.edu)
