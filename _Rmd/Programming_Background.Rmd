@@ -1,0 +1,53 @@
+---
+title: "Programming Background"
+author: "Samantha Hunter"
+date: "9/9/2021"
+output:
+---
+
+## My Programming Experience
+
+Answer these:
+1) What are your thoughts on R vs, whatever other software you've used? What functionality
+do you like about R? What parts do you miss about your other language? Do you consider R a
+difficult language to learn? (If you knew R prior to the course, describe your experience
+when first learning it)
+
+
+Prior to taking NCSU's ST558 course, Data Science for Statisticians, I had some experience with R and I have been certified in Base SAS. I was first introduced to R 
+very poorly in my undergraduate degree at University of Colorado to produce some very basic hypothesis tests and graphs for some biology labs. Back then, I had done absolutely
+no programming so it was really like jumping in the deep end and I knew so little that I barely remember what we even created in R. Then, the first class I took at NCSU was their
+SAS class, which I loved and really feel comfortable with now. 
+
+R and SAS both certainly have pros and cons, and the more I learn about R, the more I prefer it. I love that R has so much flexibility and functionality in such an easy format 
+to learn, but at some point there is something to say that SAS is more straight forward. I am really glad I learned SAS first because every procedure, or PROC step, has the same
+structure and layout. While there isn't necessarily less to learn, SAS is structured and it makes learning the basics of the language easier. The log in SAS is much more helpful 
+than the console in R. The SAS log makes trouble shooting so easy, especially when we're ready in data because I can see exactly what is going on. A lot of what I learned in SAS
+about structure and how a function or program works, still applies to R. SAS feels like it has fewer kinks as well, which makes it much easier to work with in terms of analysis. 
+For example, I just had to un-install and re-install R and RStudio because there is a new version out, but plenty of my packages haven't updated so every time I reference them, 
+I get a warning. All of these things make SAS easier to learn than R so far.
+
+
+SAS is also safer to use because it isn't open source; there's a much smaller risk of downloading a package that doesn't work like it says it will and I'm pretty sure there no 
+risk of [downloading malware](https://support.rstudio.com/hc/en-us/articles/360042593974-R-and-R-Package-Security). I don't think R will ever be used instead of SAS in highly 
+regulated industry like health care or insurance because it is open source. The less important things that I prefer about SAS over R is that SAS isn't case sensitive, which I 
+acknowledge is a kind of petty reason to dislike R. I also have a soft spot for SAS because it is so tightly related to NCSU.
+
+
+R, on the other hand, is more frustrating to learn, but is much more fun to use. The flexibility in R means there's 100 different ways to do something so you're really only 
+limited by how much you want to use. 
+# FINISH THIS
+
+
+## R Markdown Output
+```{r}
+library(tidyverse)
+
+# Seeing what data sets are available
+data()
+
+?swiss
+
+ggplot(data = swiss) +
+  geom_point(mapping = aes(x = Fertility, y = Education, color = Catholic))
+```
