@@ -2,12 +2,13 @@
 title: "Programming Background"
 author: "Samantha Hunter"
 date: "9/9/2021"
-output: 
+output: github_document
 ---
 
 ```{r}
 library(usethis)
 use_git_config(user.name = "SammHunter", user.email = "shunter2@ncsu.edu")
+getwd()
 ```
 
 ## Programming Experience - Learning
@@ -28,7 +29,7 @@ Overall, I think both programs have their place in this world. I would say SAS i
 library(tidyverse)
 
 #moving where the plot prints to the images folder
-knitr::opts_chunk$set(fig.path = "../images/")
+knitr::opts_chunk$set(fig.path = "../sammhunter.github.io/images/")
 
 # Seeing what data sets are available
 # data()
@@ -39,11 +40,12 @@ ggplot(data = swiss) +
   geom_point(mapping = aes(x = Education, y = Fertility, color = Catholic)) +
   ggtitle("Fertility of Swiss Women") +
   theme(plot.title = element_text(lineheight = 1.5, face = "bold"))
+
 ```
 
 
-```{r render}
-library(rmarkdown)
+```{r eval = FALSE}
+#library(rmarkdown)
 
 
 rmarkdown::render("C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_Rmd/Programming_Background.Rmd", 
