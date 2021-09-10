@@ -2,6 +2,7 @@
 title: "Programming Background"
 author: "Samantha Hunter"
 date: "9/9/2021"
+output: 
 ---
 
 ```{r}
@@ -30,7 +31,7 @@ library(tidyverse)
 knitr::opts_chunk$set(fig.path = "../images/")
 
 # Seeing what data sets are available
-data()
+# data()
 
 #?swiss
 
@@ -41,10 +42,9 @@ ggplot(data = swiss) +
 ```
 
 
-```{r render eval = FALSE}
+```{r render}
 library(rmarkdown)
 
-?render
 
 rmarkdown::render("C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_Rmd/Programming_Background.Rmd", 
                   output_format = "github_document", 
