@@ -2,11 +2,14 @@
 title: "Programming Background"
 author: "Samantha Hunter"
 date: "9/9/2021"
-output: github_document
+output: 
+  github_document:
+    html_preview: false
 ---
 
-```{r}
+```{r echo=FALSE, results='hide'}
 library(usethis)
+library(tidyverse)
 use_git_config(user.name = "SammHunter", user.email = "shunter2@ncsu.edu")
 getwd()
 ```
@@ -25,9 +28,8 @@ Overall, I think both programs have their place in this world. I would say SAS i
 
 
 ## R Markdown Output
-```{r}
+```{r plot}
 knitr::opts_chunk$set(fig.path = "../images/")
-library(tidyverse)
 
 #moving where the plot prints to the images folder
 
@@ -43,7 +45,7 @@ ggplot(data = swiss) +
 ```
 
 
-```{r eval = FALSE}
+```{r eval = FALSE, echo = FALSE}
 #library(rmarkdown)
 
 #knitr::opts_chunk$set(fig.path = "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/images/")

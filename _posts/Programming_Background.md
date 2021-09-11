@@ -3,14 +3,6 @@ Programming Background
 Samantha Hunter
 9/9/2021
 
-``` r
-library(usethis)
-use_git_config(user.name = "SammHunter", user.email = "shunter2@ncsu.edu")
-getwd()
-```
-
-    ## [1] "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_Rmd"
-
 ## Programming Experience - Learning
 
 Prior to taking NCSU’s ST558 course, Data Science for Statisticians, I
@@ -91,21 +83,7 @@ overwhelmed with how many way we can do one thing in R.
 
 ``` r
 knitr::opts_chunk$set(fig.path = "../images/")
-library(tidyverse)
-```
 
-    ## -- Attaching packages ----------------------------------------------------------------------------------- tidyverse 1.3.1 --
-
-    ## v ggplot2 3.3.5     v purrr   0.3.4
-    ## v tibble  3.1.3     v dplyr   1.0.7
-    ## v tidyr   1.1.3     v stringr 1.4.0
-    ## v readr   2.0.1     v forcats 0.5.1
-
-    ## -- Conflicts -------------------------------------------------------------------------------------- tidyverse_conflicts() --
-    ## x dplyr::filter() masks stats::filter()
-    ## x dplyr::lag()    masks stats::lag()
-
-``` r
 #moving where the plot prints to the images folder
 
 # Seeing what data sets are available
@@ -119,15 +97,4 @@ ggplot(data = swiss) +
   theme(plot.title = element_text(lineheight = 1.5, face = "bold"))
 ```
 
-![](C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_posts/Programming_Background_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
-
-``` r
-#library(rmarkdown)
-
-#knitr::opts_chunk$set(fig.path = "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/images/")
-rmarkdown::render("C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_Rmd/Programming_Background.Rmd", 
-                  output_format = "github_document",
-                  output_dir = "../_posts/",
-                  output_options = list("github_document")
-                  )
-```
+![](C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_posts/Programming_Background_files/figure-gfm/plot-1.png)<!-- -->
