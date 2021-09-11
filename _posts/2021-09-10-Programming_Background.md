@@ -3,17 +3,6 @@ My Programming Background
 Samantha Hunter
 9/9/2021
 
-    ## -- Attaching packages -------------------------------------------------------------- tidyverse 1.3.1 --
-
-    ## v ggplot2 3.3.5     v purrr   0.3.4
-    ## v tibble  3.1.3     v dplyr   1.0.7
-    ## v tidyr   1.1.3     v stringr 1.4.0
-    ## v readr   2.0.1     v forcats 0.5.1
-
-    ## -- Conflicts ----------------------------------------------------------------- tidyverse_conflicts() --
-    ## x dplyr::filter() masks stats::filter()
-    ## x dplyr::lag()    masks stats::lag()
-
 ## Programming Experience - Learning
 
 Prior to taking NCSU’s ST558 course, Data Science for Statisticians, I
@@ -106,4 +95,4 @@ ggplot(data = swiss) +
   theme(plot.title = element_text(lineheight = 1.5, face = "bold"))
 ```
 
-![](C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/plot-1.png)<!-- -->
+![](C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/images/plot-1.png)<!-- -->
