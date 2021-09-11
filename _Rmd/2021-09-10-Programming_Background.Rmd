@@ -60,4 +60,4 @@ rmarkdown::render("_Rmd/2021-09-10-Programming_Background.Rmd",
                   output_options = list("github_document")
 )
 ```
-
+![SwissPlot](https://raw.githubusercontent.com/sammhunter/sammhunter.github.io/master/images/plot-1.png)
