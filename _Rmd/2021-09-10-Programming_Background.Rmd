@@ -1,10 +1,11 @@
 ---
-title: "Programming Background"
+title: "My Programming Background"
 author: "Samantha Hunter"
 date: "9/9/2021"
 output: 
   github_document:
     html_preview: false
+published: true
 ---
 
 ```{r echo=FALSE, results='hide'}
