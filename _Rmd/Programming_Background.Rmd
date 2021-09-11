@@ -25,11 +25,11 @@ Overall, I think both programs have their place in this world. I would say SAS i
 
 
 ## R Markdown Output
-```{r plot}
+```{r}
+knitr::opts_chunk$set(fig.path = "../images/")
 library(tidyverse)
 
 #moving where the plot prints to the images folder
-knitr::opts_chunk$set(fig.path = "../sammhunter.github.io/images/")
 
 # Seeing what data sets are available
 # data()
@@ -40,16 +40,15 @@ ggplot(data = swiss) +
   geom_point(mapping = aes(x = Education, y = Fertility, color = Catholic)) +
   ggtitle("Fertility of Swiss Women") +
   theme(plot.title = element_text(lineheight = 1.5, face = "bold"))
-
 ```
 
 
 ```{r eval = FALSE}
 #library(rmarkdown)
 
-
+#knitr::opts_chunk$set(fig.path = "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/images/")
 rmarkdown::render("C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_Rmd/Programming_Background.Rmd", 
-                  output_format = "github_document", 
+                  output_format = "github_document",
                   output_dir = "../_posts/",
                   output_options = list("github_document")
                   )
