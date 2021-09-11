@@ -4,15 +4,25 @@ author: "Samantha Hunter"
 date: "9/9/2021"
 output: 
   github_document:
-    html_preview: false
 published: true
 ---
 
 ```{r echo=FALSE, results='hide'}
 library(usethis)
 library(tidyverse)
+
 use_git_config(user.name = "SammHunter", user.email = "shunter2@ncsu.edu")
+
 getwd()
+knitr::fig_chunk("plot")
+
+knitr::opts_chunk$set(fig.path = "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/")
+knitr::fig_chunk("plot")
+
+
+knitr::opts_chunk$set(fig.path = "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/")
+knitr::fig_chunk("plot")
+
 ```
 
 ## Programming Experience - Learning
@@ -30,8 +40,6 @@ Overall, I think both programs have their place in this world. I would say SAS i
 
 ## R Markdown Output
 ```{r plot}
-knitr::opts_chunk$set(fig.path = "../images/")
-
 #moving where the plot prints to the images folder
 
 # Seeing what data sets are available
