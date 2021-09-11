@@ -49,10 +49,10 @@ ggplot(data = swiss) +
 #library(rmarkdown)
 
 #knitr::opts_chunk$set(fig.path = "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/images/")
-rmarkdown::render("C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_Rmd/Programming_Background.Rmd", 
+rmarkdown::render("_Rmd/Programming_Background.Rmd", 
                   output_format = "github_document",
-                  output_dir = "../_posts/",
+                  output_dir = "_posts/",
                   output_options = list("github_document")
-                  )
+)
 ```
 
