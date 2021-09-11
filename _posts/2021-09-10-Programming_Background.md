@@ -1,4 +1,4 @@
-Programming Background
+My Programming Background
 ================
 Samantha Hunter
 9/9/2021
@@ -97,4 +97,4 @@ ggplot(data = swiss) +
   theme(plot.title = element_text(lineheight = 1.5, face = "bold"))
 ```
 
-![](C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_posts/Programming_Background_files/figure-gfm/plot-1.png)<!-- -->
+![](C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_posts/2021-09-10-Programming_Background_files/figure-gfm/plot-1.png)<!-- -->
