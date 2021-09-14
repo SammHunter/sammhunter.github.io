@@ -13,7 +13,7 @@ library(tidyverse)
 
 use_git_config(user.name = "SammHunter", user.email = "shunter2@ncsu.edu")
 
-getwd()
+# getwd()
 # knitr::fig_chunk("plot")
 
 knitr::opts_chunk$set(fig.path = "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/images/")

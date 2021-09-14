@@ -3,8 +3,6 @@ Programming Background
 Samantha Hunter
 9/13/2021
 
-    ## [1] "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/_Rmd"
-
 ## Programming Experience - Learning
 
 Prior to taking NCSU’s ST558 course, Data Science for Statisticians, I
