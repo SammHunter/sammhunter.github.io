@@ -2,11 +2,10 @@
 title:
 author: "Samantha Hunter"
 date: "9/9/2021"
-output:
-  github_document:
+output: github_document
 ---
 
-```{r echo=FALSE, results='hide'}
+```{r echo=FALSE, message = FALSE}
 library(usethis)
 library(tidyverse)
 
