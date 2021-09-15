@@ -1,5 +1,3 @@
-Programming Background
-================
 Samantha Hunter
 9/13/2021
 
