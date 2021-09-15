@@ -94,6 +94,4 @@ ggplot(data = swiss) +
   theme(plot.title = element_text(lineheight = 1.5, face = "bold"))
 ```
 
-![](C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/images/plot-1.png)<!-- -->
-
-![SwissPlot](https://raw.githubusercontent.com/sammhunter/sammhunter.github.io/master/images/plot-1.png)
+![](../images/plot-1.png)<!-- -->

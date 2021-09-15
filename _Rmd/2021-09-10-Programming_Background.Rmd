@@ -6,17 +6,26 @@ output:
   github_document
 published: true
 ---
+```{r echo=FALSE, message = FALSE, eval = FALSE}
+rmarkdown::render("_Rmd/2021-09-10-Programming_Background.Rmd", 
+    output_format = "github_document",
+    output_dir = "_posts/",
+    output_options = list(
+        html_preview = FALSE)
+  )
+```
+
 
 ```{r echo=FALSE, message = FALSE}
 library(usethis)
 library(tidyverse)
 
-use_git_config(user.name = "SammHunter", user.email = "shunter2@ncsu.edu")
+# use_git_config(user.name = "SammHunter", user.email = "shunter2@ncsu.edu")
 
 # getwd()
 # knitr::fig_chunk("plot")
 
-knitr::opts_chunk$set(fig.path = "C:/Users/jolop/OneDrive/Desktop/Fall21/ST558/sammhunter.github.io/images/")
+knitr::opts_chunk$set(fig.path = "../images/")
 # knitr::fig_chunk("plot")
 
 ```
@@ -58,4 +67,5 @@ rmarkdown::render("_Rmd/2021-09-10-Programming_Background.Rmd",
                   output_options = list("github_document")
 )
 ```
-![SwissPlot](https://raw.githubusercontent.com/sammhunter/sammhunter.github.io/master/images/plot-1.png)
+
+
