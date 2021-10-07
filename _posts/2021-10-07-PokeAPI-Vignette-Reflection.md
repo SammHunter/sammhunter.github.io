@@ -4,7 +4,8 @@ Samantha Hunter
 # PokeAPI Vignette
 
 Link: [Pokemon API Vignette](https://sammhunter.github.io/558_Project1/)
-Link: [Repository for Vignette]()
+Link: [Repository for
+Vignette](https://github.com/SammHunter/558_Project1)
 
 My vignette alllows someone to query the PokeAPI and get various
 information about the Pokemon video games. To do so, I created six
