@@ -6,10 +6,10 @@ date: "10/7/2021"
 
 # PokeAPI Vignette
 
-Link: [Pokemon API Vignette](https://sammhunter.github.io/558_Project1/)
+[Pokemon API Vignette](https://sammhunter.github.io/558_Project1/)
 
 
-Link: [Repository for Vignette](https://github.com/SammHunter/558_Project1)
+[Repository for Vignette](https://github.com/SammHunter/558_Project1)
 
 
 My vignette allows someone to query the PokeAPI and get various information about different elements of the turn-style video games. I created six different functions to get information about the berries, Pokemon stats, Pokemon types, Pokemon abilities, and Pokemon species from each generation of the game. Game generations are usually released with a new set of Pokemon species and new game elements so we can use the Pokemon species or Pokemon generation as key variables to join the data frames that are returned from the functions. 
