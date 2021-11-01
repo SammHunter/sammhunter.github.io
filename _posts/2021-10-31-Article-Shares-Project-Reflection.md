@@ -1,7 +1,7 @@
-2021-10-31-Predicting-Shares-of-Web-Articles
-================
 Samantha Hunter
 10/30/2021
+
+# Predicting Shares of Web Articles"
 
 [Website](https://sammhunter.github.io/558_Project2/)
 

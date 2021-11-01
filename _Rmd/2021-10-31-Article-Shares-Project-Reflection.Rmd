@@ -1,9 +1,11 @@
 ---
-title: "2021-10-31-Predicting-Shares-of-Web-Articles"
+title: 
 author: "Samantha Hunter"
 date: "10/30/2021"
 output: html_document
 ---
+
+# Predicting Shares of Web Articles"
 
 
 [Website](https://sammhunter.github.io/558_Project2/)
