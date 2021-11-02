@@ -1,7 +1,7 @@
 Samantha Hunter
 10/30/2021
 
-# Predicting Shares of Web Articles"
+# Predicting Shares of Web Articles
 
 [Website](https://sammhunter.github.io/558_Project2/)
 
@@ -26,8 +26,9 @@ tested and just were equivalently extremely bad.
 
 Shout out to my partner as well, who seemed to have an answer to nearly
 every question I asked. I am sure I would have found automating the
-render much more difficult. Evan also did some really interesting things
-using the kable function and in-line referencing in R markdown.
+render much more difficult with Evan’s help. Evan also did some really
+interesting things using the kable function and in-line referencing in R
+markdown.
 
 My big takeaway from this project is that variable selection is really
 hard. I spent a lot of time thinking those things through. I also found
