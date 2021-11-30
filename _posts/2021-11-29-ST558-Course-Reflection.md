@@ -32,7 +32,7 @@ cheatsheet. Clearly I really like working in R and I really feel like my
 world as a data scientist has just really opened up from taking this
 course.
 
-![R is just neat](neat.png)
+![R is just neat](/image/neat.png)
 
 Finalyl, while I definitely think I will use Github to house all of
 these hopeful-projects, I doubt I’ll keep up with Githubs blog. It may
